@@ -9,3 +9,10 @@ collection.length
     i += 1
   end
 end
+
+if block_return_values.include?(false)
+    false
+  else
+    true
+  end
+end
